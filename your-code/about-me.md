@@ -1,7 +1,7 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
+* I was born in Venezuela but moved to London when I was 13.
 * I have a PhD in Neuroscience but have no intention of staying in academia.
 * I have some experience analyzing data from my own experiments but no formal training whatsoever.
 
